@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-family: calibri;
+}
+.countertop{
+    margin-top: 50%;
+}
+h1 {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 80px;
+}
+.actioncenter {
+    display: flex;
+    justify-content: center;
+}
+.actioncenter h2{
+    margin-top: 5px;
+}
+.actioncenter form {
+    margin: 10px;
+}
+.countup input {
+    background-color: green;
+    height: 45px;
+    font-family: calibri;
+}
+.destroy input {
+    background-color: red;
+    height: 45px;
+    font-family: calibri;
+}
